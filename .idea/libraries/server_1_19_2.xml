@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="server-1.19.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraft/server/1.19.2/server-1.19.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
